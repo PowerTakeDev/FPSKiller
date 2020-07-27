@@ -1,0 +1,12 @@
+{
+	"1.0":
+	{
+		"available": true,
+		"cfg": "bin/kpskiller.ini",
+		"payload": "1.0/payload.bin",
+	},
+	"1.1":
+	{
+		"available": false
+	}
+}
